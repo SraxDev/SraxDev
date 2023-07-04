@@ -9,7 +9,7 @@
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=SraxDev&theme=nord&hide_border=true&include_all_commits=false&count_private=false&layout=compact)
 
   ## 💰 You can help me by Donating
-  [![Ko-Fi](https://img.shields.io/badge/Ko--fi-F16061?style=for-the-badge&logo=ko-fi&logoColor=white)](https://ko-fi.com/https://ko-fi.com/sraxdev) 
+  [![Ko-Fi](https://img.shields.io/badge/Ko--fi-F16061?style=for-the-badge&logo=ko-fi&logoColor=white)](https://ko-fi.com/sraxdev) 
 
   
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
