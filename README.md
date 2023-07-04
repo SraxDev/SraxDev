@@ -9,9 +9,6 @@
 ![](https://github-readme-streak-stats.herokuapp.com/?user=SraxDev&theme=nord&hide_border=true)<br/>
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=SraxDev&theme=nord&hide_border=true&include_all_commits=false&count_private=false&layout=compact)
 
-### 🔝 Top Contributed Repo
-![](https://github-contributor-stats.vercel.app/api?username=SraxDev&limit=5&theme=nord&combine_all_yearly_contributions=true)
-
 [![](https://visitcount.itsvg.in/api?id=SraxDev&icon=0&color=12)](https://visitcount.itsvg.in)
 
   ## 💰 You can help me by Donating
